@@ -1,0 +1,1 @@
+Soma dos 3 primeiros valores - 1.625000

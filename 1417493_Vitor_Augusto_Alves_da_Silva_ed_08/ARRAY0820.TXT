@@ -1,0 +1,1 @@
+Valor achado em DADOS.TXT = 17, 3 vezes
